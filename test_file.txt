@@ -1,3 +1,7 @@
 Nothing to see here.
 
 Just writing some text on VS Code.
+
+Added public key.
+
+Now testing some more.
