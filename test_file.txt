@@ -5,3 +5,16 @@ Just writing some text on VS Code.
 Added public key.
 
 Now testing some more.
+
+Last commit was unsigned.
+
+I was able to push changes, but they are not verified.
+
+And since they are not verified, they do not show up on the heatmap.
+
+****************************
+One more time.
+
+Updated the git config file with help from this article:
+
+https://neurotechnics.com/blog/configure-gpg-to-sign-git-commits-in-windows/
